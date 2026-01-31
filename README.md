@@ -29,11 +29,10 @@
 
 - 🔭 I'm currently working on **web & AI-driven applications**
 - 🌱 I'm currently learning **Advanced Data Science & Machine Learning concepts**
-- 💼 My portfolio: **[View Projects](https://your-portfolio-link)**
-- 📝 I regularly write articles on **[My Blog](https://your-blog-link)** **Coming Soon**
+- 💼 My portfolio: **[View Projects](https://mahdi-yahya-portfolio.vercel.app)**
 - 🎯 Ultimate Goal: **Becoming so good that someone with no IT-knowledge would love diving in.**
-- 📧 How to reach me: **your@email.com**
-- ⚡ Fun fact: **My top 3 manga/anime: Naruto, Haikyuu!!, GTO**
+- 📧 How to reach me: **codingtechdz@gmail.com**
+- ⚡ Fun fact: **My top 3 manga/anime: Naruto, Demon Slayer!!, jujutsu kaisen**
 
 <br clear="right"/>
 
@@ -96,98 +95,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-## 💻 Recent Activity
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Node.js](#)
-- [Machine Learning in Production: Best Practices](#)
-- [Clean Architecture Principles for Modern Web Apps](#)
-- [Optimizing React Performance: A Deep Dive](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on my blog...](https://your-blog-link)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Provider | 📅 Year |
-|:----------------:|:-----------:|:-------:|
-| **Full-Stack Web Development** | FreeCodeCamp | 2024 |
-| **Machine Learning Specialization** | Coursera | 2024 |
-| **AWS Certified Developer** | Amazon | 2024 |
-| **Data Structures & Algorithms** | Udemy | 2023 |
-
-</div>
-
----
 
 ## 💡 Quote of the Day
 
@@ -207,39 +115,18 @@
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:your@email.com" target="_blank">
+
+<a href="mailto:codingtechdz@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://your-portfolio-link" target="_blank">
+<a href="https://mahdi-yahya-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://dev.to/your-devto" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-<a href="https://stackoverflow.com/users/your-id" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
 </a>
 
 </div>
@@ -254,13 +141,6 @@
 
 <br>
 
-### Show some ❤️ by starring some of my repositories!
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge)
-
-<br>
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
