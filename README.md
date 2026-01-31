@@ -105,17 +105,6 @@
 
 </div>
 
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-
 
 ## 🤝 Connect With Me
 
